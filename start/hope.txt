@@ -1,0 +1,4 @@
+The I key allows you to edit your file.
+When you're done editing, press the ESC key.
+Type a :
+Then to save and quit, type wq and press Enter.
